@@ -1,0 +1,4 @@
+.skeleton { display:block; border-radius:7px; background:linear-gradient(90deg,#edf2f5 20%,#f7fafb 38%,#edf2f5 57%); background-size:220% 100%; animation:skeleton-shimmer 1.25s ease-in-out infinite; }
+.skeleton--field { width:320px; height:35px; }.skeleton--button { width:100px; height:35px; }.skeleton-row { display:grid; grid-template-columns:32px 1.25fr .7fr .42fr; gap:15px; align-items:center; min-height:70px; padding:0 17px; border-bottom:1px solid #edf1f5; }.skeleton--avatar { width:31px; height:31px; border-radius:50%; }.skeleton--wide { width:82%; height:12px; }.skeleton--short { width:70%; height:10px; }
+@keyframes skeleton-shimmer { to { background-position:-220% 0; } }
+@media (max-width:760px) { .skeleton--field { width:250px; }.skeleton-row { min-width:650px; } }

@@ -1,0 +1,2 @@
+.auth-error { margin:0; padding:9px 10px; color:#ffb8c2; border:1px solid rgba(255,90,110,.34); border-radius:7px; background:rgba(255,90,110,.1); font-size:11px; line-height:1.4; }
+.auth-form .button:disabled { cursor:wait; opacity:.72; transform:none; }

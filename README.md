@@ -3,3 +3,7 @@
 A clinical decision-support prototype for pharmacogenomics and cardiovascular care with explainable reports.
 
 The project is an exploratory product concept and does not replace clinical judgement or medical advice.
+
+## Project status
+
+Exploratory portfolio prototype. It is for product and interface research only, not clinical use.
